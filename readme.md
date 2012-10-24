@@ -1,4 +1,4 @@
-<!--
+
 
   (C) Media Cookie 2012 and Onwards All Rights Reserved
 	Any external use other then Github or moodsearch.net render
@@ -13,4 +13,4 @@
    Coded by Jordan Diamond & Daniel Johnson
    
 
-    -->
+ 
